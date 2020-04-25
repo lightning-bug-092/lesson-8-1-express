@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "title": "hehe",
+      "description": "hihi",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "Phạm Minh Hiếu",
+      "phoneNumber": "0396275692",
+      "id": 2
+    }
+  ]
+}
